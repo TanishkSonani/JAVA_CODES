@@ -28,7 +28,5 @@ public class check_radix {
             System.out.println("Enter a Valid number");
         }
 
-
-
     }
 }
